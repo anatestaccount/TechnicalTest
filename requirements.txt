@@ -1,0 +1,6 @@
+benchling_sdk==1.21.2
+Flask==1.1.1
+Flask==1.1.2
+httpx==0.28.1
+pytest==5.2.1
+pytest==7.1.1
